@@ -1,4 +1,4 @@
-# movie_list_app
+# Product List app with Authentication.
 
 A new Flutter Product List project.
 
